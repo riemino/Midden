@@ -1,8 +1,8 @@
 {
   "schemaVersion": "v0.1",
   "isConfigured": true,
-  "organizationName": "Your Organization",
-  "toolName": "Metadata Tool",
+  "organizationName": "Southwest Watershed Research Center",
+  "toolName": "SWRC Metadata Tool",
   "zones": [
     "Raw",
     "Work",
